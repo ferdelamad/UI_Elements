@@ -4,7 +4,7 @@
   "description": "Personal UI Elements Collection",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack -w"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,29 @@
   "bugs": {
     "url": "https://github.com/ferdelamad/UI_Elements/issues"
   },
-  "homepage": "https://github.com/ferdelamad/UI_Elements#readme"
+  "homepage": "https://github.com/ferdelamad/UI_Elements#readme",
+  "dependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "i": "^0.3.6",
+    "npm": "^6.4.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "styled-components": "^4.1.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
 }
