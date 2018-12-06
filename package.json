@@ -1,0 +1,20 @@
+{
+  "name": "UI_Elements",
+  "version": "1.0.0",
+  "description": "Personal UI Elements Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdelamad/UI_Elements.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdelamad/UI_Elements/issues"
+  },
+  "homepage": "https://github.com/ferdelamad/UI_Elements#readme"
+}
