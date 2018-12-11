@@ -2,6 +2,7 @@ import React from 'react';
 import Button01 from './Button01';
 import Button02 from './Button02';
 import Button03 from './Button03';
+import Button04 from './Button04';
 
 const App = () => (
   <div className="container">
@@ -9,6 +10,7 @@ const App = () => (
     <Button01>Button</Button01>
     <Button02>Button</Button02>
     <Button03>Button</Button03>
+    <Button04>Button</Button04>
   </div>
 );
 
