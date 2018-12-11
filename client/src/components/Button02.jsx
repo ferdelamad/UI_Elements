@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const Button02 = styled.a`
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 15px 30px;
