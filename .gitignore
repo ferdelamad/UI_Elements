@@ -1,6 +1,9 @@
 ##NPM
 node_modules/
 
+#BUILD FILES
+client/dist/
+
 ##LOCAL
 .DS_Store
 
