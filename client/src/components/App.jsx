@@ -5,6 +5,7 @@ import Button02 from './Button02';
 import Button03 from './Button03';
 import Button04 from './Button04';
 import Button05 from './Button05';
+import Button06 from './Button06';
 
 const App = () => (
   <Container>
@@ -14,6 +15,7 @@ const App = () => (
     <Button03>Button</Button03>
     <Button04>Button</Button04>
     <Button05>Button</Button05>
+    <Button06>Button</Button06>
   </Container>
 );
 
